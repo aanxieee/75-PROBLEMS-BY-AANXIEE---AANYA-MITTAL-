@@ -1,0 +1,47 @@
+# ─── Personal Reference (never push) ─────────────────────────────────────────
+WAY.pdf
+WAY
+PROJECT_SETUP.md
+create_folders.ps1
+
+# ─── Virtual Environments ─────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ─── Data files with personal content ────────────────────────────────────────
+**/data/vocabulary.json
+**/data/*.db
+**/data/*.sqlite
+
+# ─── Streamlit ────────────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ─── OS ───────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE ──────────────────────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+
+# ─── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ─── Environment Variables ────────────────────────────────────────────────────
+.env
+.env.local
+*.env
