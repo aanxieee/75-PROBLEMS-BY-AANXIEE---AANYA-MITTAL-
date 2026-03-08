@@ -140,10 +140,10 @@ App opens at `http://localhost:8501`
 
 ## 🔗 Links
 
-- 🌐 Live App: [your-app-link.streamlit.app](https://vocab-srs-1-aanxiee.streamlit.app/))
-- 🐙 GitHub: [github.com/aanxiee/75-day-ai-challenge](https://github.com/aanxiee)
-- 💼 LinkedIn: [lnkd.in/gDJzaXnK]((https://www.linkedin.com/in/aanya-mittal-aka-aanxiee/))
-- 🌍 Website: [aanxiee.com](https://aanxiee.com)
+- 🌐 Live App: [LIVE DEMO ](https://vocab-srs-1-aanxiee.streamlit.app/))
+- 🐙 GitHub: [Aanya's Github](https://github.com/aanxiee))
+- 💼 LinkedIn: [Check Profile](https://www.linkedin.com/in/aanya-mittal-aka-aanxiee/))
+- 🌍 Website: [aanxiee](https://aanxiee.com)
 
 ---
 
