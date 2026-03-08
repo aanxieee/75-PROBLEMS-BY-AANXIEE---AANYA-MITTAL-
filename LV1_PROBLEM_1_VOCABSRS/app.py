@@ -145,7 +145,7 @@ def render_word_card(entry: dict, show_definition: bool = True):
     parts = f"<span style='color:#a0a0c0;font-size:0.85rem;'>{entry.get('part_of_speech','')}</span>" if entry.get("part_of_speech") else ""
     phonetic = f"<div class='phonetic'>{entry.get('phonetic','')}</div>" if entry.get("phonetic") else ""
     defn = f"<div class='definition'>{entry.get('definition','')}</div>" if show_definition else ""
-    example = f"<div class='example'>"{entry.get('example','')}"</div>" if entry.get("example") and show_definition else ""
+    example = f"<div class='example'>{entry.get('example', '')}</div>" if entry.get("example") and show_definition else ""
 
     st.markdown(
         f"""

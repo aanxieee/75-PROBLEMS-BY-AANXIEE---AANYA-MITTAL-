@@ -2,46 +2,110 @@
 WAY.pdf
 WAY
 PROJECT_SETUP.md
-create_folders.ps1
 
 # ─── Virtual Environments ─────────────────────────────────────────────────────
-.venv/
-venv/
-env/
-ENV/
+**/.venv/
+**/venv/
+**/.env
 
 # ─── Python ───────────────────────────────────────────────────────────────────
 __pycache__/
+**/__pycache__/
 *.py[cod]
-*.pyo
 *.pyd
-.Python
-*.egg-info/
-dist/
-build/
 
-# ─── Data files with personal content ────────────────────────────────────────
+# ─── Data / Secrets ───────────────────────────────────────────────────────────
 **/data/vocabulary.json
 **/data/*.db
-**/data/*.sqlite
+**/.streamlit/secrets.toml
 
-# ─── Streamlit ────────────────────────────────────────────────────────────────
-.streamlit/secrets.toml
-
-# ─── OS ───────────────────────────────────────────────────────────────────────
+# ─── OS / IDE ─────────────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
-desktop.ini
-
-# ─── IDE ──────────────────────────────────────────────────────────────────────
 .vscode/settings.json
-.idea/
-
-# ─── Jupyter ──────────────────────────────────────────────────────────────────
-.ipynb_checkpoints/
 *.ipynb
 
-# ─── Environment Variables ────────────────────────────────────────────────────
-.env
-.env.local
-*.env
+# ══════════════════════════════════════════════════════════════════════════════
+# PROJECT FOLDERS — Remove a line when you're ready to push that project
+# ══════════════════════════════════════════════════════════════════════════════
+
+# ── LEVEL 1 (Problems 1–50, 1 day each) ──────────────────────────────────────
+# LV1_PROBLEM_1_VOCABSRS/  
+LV1_PROBLEM_2_/
+LV1_PROBLEM_3_/
+LV1_PROBLEM_4_/
+LV1_PROBLEM_5_/
+LV1_PROBLEM_6_/
+LV1_PROBLEM_7_/
+LV1_PROBLEM_8_/
+LV1_PROBLEM_9_/
+LV1_PROBLEM_10_/
+LV1_PROBLEM_11_/
+LV1_PROBLEM_12_/
+LV1_PROBLEM_13_/
+LV1_PROBLEM_14_/
+LV1_PROBLEM_15_/
+LV1_PROBLEM_16_/
+LV1_PROBLEM_17_/
+LV1_PROBLEM_18_/
+LV1_PROBLEM_19_/
+LV1_PROBLEM_20_/
+LV1_PROBLEM_21_/
+LV1_PROBLEM_22_/
+LV1_PROBLEM_23_/
+LV1_PROBLEM_24_/
+LV1_PROBLEM_25_/
+LV1_PROBLEM_26_/
+LV1_PROBLEM_27_/
+LV1_PROBLEM_28_/
+LV1_PROBLEM_29_/
+LV1_PROBLEM_30_/
+LV1_PROBLEM_31_/
+LV1_PROBLEM_32_/
+LV1_PROBLEM_33_/
+LV1_PROBLEM_34_/
+LV1_PROBLEM_35_/
+LV1_PROBLEM_36_/
+LV1_PROBLEM_37_/
+LV1_PROBLEM_38_/
+LV1_PROBLEM_39_/
+LV1_PROBLEM_40_/
+LV1_PROBLEM_41_/
+LV1_PROBLEM_42_/
+LV1_PROBLEM_43_/
+LV1_PROBLEM_44_/
+LV1_PROBLEM_45_/
+LV1_PROBLEM_46_/
+LV1_PROBLEM_47_/
+LV1_PROBLEM_48_/
+LV1_PROBLEM_49_/
+LV1_PROBLEM_50_/
+
+# ── LEVEL 2 (Problems 51–70, multi-day) ──────────────────────────────────────
+LV2_PROBLEM_51_/
+LV2_PROBLEM_52_/
+LV2_PROBLEM_53_/
+LV2_PROBLEM_54_/
+LV2_PROBLEM_55_/
+LV2_PROBLEM_56_/
+LV2_PROBLEM_57_/
+LV2_PROBLEM_58_/
+LV2_PROBLEM_59_/
+LV2_PROBLEM_60_/
+LV2_PROBLEM_61_/
+LV2_PROBLEM_62_/
+LV2_PROBLEM_63_/
+LV2_PROBLEM_64_/
+LV2_PROBLEM_65_/
+LV2_PROBLEM_66_/
+LV2_PROBLEM_67_/
+LV2_PROBLEM_68_/
+LV2_PROBLEM_69_/
+LV2_PROBLEM_70_/
+
+# ── LEVEL 3 (Problems 71–75, capstone) ───────────────────────────────────────
+LV3_PROBLEM_71_/
+LV3_PROBLEM_72_/
+LV3_PROBLEM_73_/
+LV3_PROBLEM_74_/
+LV3_PROBLEM_75_/
