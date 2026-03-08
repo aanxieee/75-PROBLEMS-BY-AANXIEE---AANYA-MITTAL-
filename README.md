@@ -1,4 +1,4 @@
-# 75 Problems. 75 Real-World AI Solutions.
+# 75 Problems. 75 Real-World Solutions.
 ### by Aanya Mittal (@aanxieee)
 
 > One real problem. One AI solution. Every single day. For 75 days.  
