@@ -53,5 +53,5 @@ Each project has its **own virtual environment** — no dependency conflicts.
 
 ---
 
-*Aanya Mittal · aanyamittal1318@gmail.com · aanxiee.com*  
+*Aanya Mittal · aanya1310mittal@gmail.com · aanxiee.com*  
 *Started: 8th March 2025 · #75DayAIChallenge*
