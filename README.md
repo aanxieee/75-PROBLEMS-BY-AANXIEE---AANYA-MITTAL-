@@ -4,9 +4,9 @@
 > One real problem. One AI solution. Every single day. For 75 days.  
 > **Python · Streamlit · HuggingFace · scikit-learn · LLMs**
 
-LinkedIn------(www.linkedin.com/in/aanya-mittal-aka-aanxiee)
-Website------(https://aanxiee.com)
-Instagram----(https://instagram.com/aanxiee)
+#LinkedIn------(www.linkedin.com/in/aanya-mittal-aka-aanxiee)
+#Website------(https://aanxiee.com)
+#Instagram----(https://instagram.com/aanxiee)
 
 ---
 
