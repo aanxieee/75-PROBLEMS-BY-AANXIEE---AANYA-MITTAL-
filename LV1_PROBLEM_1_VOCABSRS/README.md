@@ -1,9 +1,10 @@
 <img width="1908" height="963" alt="{7D55FA1D-5AEE-40E9-B2F7-9CA632EE31FC}" src="https://github.com/user-attachments/assets/d7ec56b2-01cd-4710-adb1-7e8aad79bbe6" 
-/># PROBLEM 1 /75
-/>#  VocabSRS — Vocabulary Builder with Spaced Repetition
-/># No ML. Just logic.
-/># Spaced Repetition doesn't need a model.
-/># Sometimes the best solution is the simplest one.
+/>
+# PROBLEM 1 / 75
+#  VocabSRS — Vocabulary Builder with Spaced Repetition
+### No ML. Just logic.
+### Spaced Repetition doesn't need a model.
+### Sometimes the best solution is the simplest one.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vocab-srs-1-aanxiee.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
