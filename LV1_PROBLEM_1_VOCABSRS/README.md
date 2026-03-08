@@ -1,14 +1,17 @@
-# 📚 VocabSRS — Vocabulary Builder with Spaced Repetition
+<img width="1908" height="963" alt="{7D55FA1D-5AEE-40E9-B2F7-9CA632EE31FC}" src="https://github.com/user-attachments/assets/d7ec56b2-01cd-4710-adb1-7e8aad79bbe6" 
+/># PROBLEM 1 /75
+/>#  VocabSRS — Vocabulary Builder with Spaced Repetition
+/># No ML. Just logic.
+/># Spaced Repetition doesn't need a model.
+/># Sometimes the best solution is the simplest one.
 
-> **Day 01 / 75** — *75 Problems. 75 Real-World AI Solutions. [#75DayAIChallenge](https://www.linkedin.com/in/your-profile)*
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vocab-srs-1-aanxiee.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
-## 😤 Why I Built This (Personal Story)
+## 😤 Why I Built This
 
 Roz ek naya word padhti thi — articles mein, research papers mein, LinkedIn posts mein. Lookup karti thi, "oh interesting!" bolti thi, and by next week? Gone. Completely forgotten.
 
@@ -121,13 +124,7 @@ App opens at `http://localhost:8501`
 
 ## 🌐 Live Demo
 
-👉 **[Try the app live on Streamlit Cloud](https://your-app-link.streamlit.app)**
-
----
-
-## 📸 Screenshot
-
-> *(Add a screenshot after deployment — save as `screenshot.png` in this folder)*
+👉 **[Try the app live on Streamlit Cloud](https://vocab-srs-1-aanxiee.streamlit.app/)**
 
 ---
 
@@ -142,9 +139,9 @@ App opens at `http://localhost:8501`
 
 ## 🔗 Links
 
-- 🌐 Live App: [your-app-link.streamlit.app](https://your-app-link.streamlit.app)
-- 🐙 GitHub: [github.com/aanxiee/75-day-ai-challenge](https://github.com/aanxiee/75-day-ai-challenge)
-- 💼 LinkedIn: [lnkd.in/gDJzaXnK](https://lnkd.in/gDJzaXnK)
+- 🌐 Live App: [your-app-link.streamlit.app](https://vocab-srs-1-aanxiee.streamlit.app/))
+- 🐙 GitHub: [github.com/aanxiee/75-day-ai-challenge](https://github.com/aanxiee)
+- 💼 LinkedIn: [lnkd.in/gDJzaXnK]((https://www.linkedin.com/in/aanya-mittal-aka-aanxiee/))
 - 🌍 Website: [aanxiee.com](https://aanxiee.com)
 
 ---
@@ -156,4 +153,3 @@ MIT — free to use, fork, and build upon.
 ---
 
 *Day 01 / 75 — 75 Problems. 75 Real-World AI Solutions. #75DayAIChallenge*
-*Challenge start: 8th March 2025*
