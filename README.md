@@ -4,9 +4,9 @@
 > One real problem. One AI solution. Every single day. For 75 days.  
 > **Python · Streamlit · HuggingFace · scikit-learn · LLMs**
 
-#LinkedIn------(www.linkedin.com/in/aanya-mittal-aka-aanxiee)
-#Website------(https://aanxiee.com)
-#Instagram----(https://instagram.com/aanxiee)
+[![LinkedIn](https://img.shields.io/badge/Follow-Aanya_Mittal-blue?logo=linkedin)]([https://lnkd.in/gDJzaXnK](https://www.linkedin.com/in/aanya-mittal-aka-aanxiee/))
+[![Website](https://img.shields.io/badge/Website-aanxiee.com-black)](https://aanxiee.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@aanxiee-E4405F?logo=instagram)](https://instagram.com/aanxiee)
 
 ---
 
@@ -26,7 +26,7 @@ Domains: **Fintech · Healthcare · Productivity · Education · Daily Life**
 
 | # | Problem | Solution | Domain | Stack | Live | Status |
 |---|---------|----------|--------|-------|------|--------|
-| 01 | I forget every new word I read | [VocabSRS — Spaced Repetition Vocabulary Builder](./LV1_PROBLEM_1_VOCABSRS/) | Productivity | Python, Streamlit, SM-2 | [▶ Demo]- https://vocab-srs-1-aanxiee.streamlit.app/ | ✅ |
+| 01 | I forget every new word I read | [VocabSRS — Spaced Repetition Vocabulary Builder](./LV1_PROBLEM_1_VOCABSRS/) | Productivity | Python, Streamlit, SM-2 | [▶ Demo]-https://vocab-srs-1-aanxiee.streamlit.app/| ✅ |
 | 02 | Coming soon | — | TBD | — | — | 🔜 |
 
 ---
@@ -53,5 +53,5 @@ Each project has its **own virtual environment** — no dependency conflicts.
 
 ---
 
-*Aanya Mittal · aanya1310mittal@gmail.com · aanxiee.com*  
+*Aanya Mittal · aanyamittal1318@gmail.com · aanxiee.com*  
 *Started: 8th March 2025 · #75DayAIChallenge*
