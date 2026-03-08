@@ -140,9 +140,9 @@ App opens at `http://localhost:8501`
 
 ## 🔗 Links
 
-- 🌐 Live App: [LIVE DEMO ](https://vocab-srs-1-aanxiee.streamlit.app/))
-- 🐙 GitHub: [Aanya's Github](https://github.com/aanxiee))
-- 💼 LinkedIn: [Check Profile](https://www.linkedin.com/in/aanya-mittal-aka-aanxiee/))
+- 🌐 Live App: [LIVE DEMO ](https://vocab-srs-1-aanxiee.streamlit.app/)
+- 🐙 GitHub: [Aanya's Github](https://github.com/aanxiee)
+- 💼 LinkedIn: [Check Profile](https://www.linkedin.com/in/aanya-mittal-aka-aanxiee/)
 - 🌍 Website: [aanxiee](https://aanxiee.com)
 
 ---
