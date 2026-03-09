@@ -1,0 +1,13 @@
+# Personal Data -- NEVER push
+*.pdf
+*.csv
+data/
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# VS Code
+.vscode/

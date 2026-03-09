@@ -27,7 +27,7 @@ Domains: **Fintech · Healthcare · Productivity · Education · Daily Life**
 | # | Problem | Solution | Domain | Stack | Live | Status |
 |---|---------|----------|--------|-------|------|--------|
 | 01 | I forget every new word I read | [VocabSRS — Spaced Repetition Vocabulary Builder](./LV1_PROBLEM_1_VOCABSRS/) | Productivity | Python, Streamlit, SM-2 | [▶ Demo]-https://vocab-srs-1-aanxiee.streamlit.app/| ✅ |
-| 02 | Coming soon | — | TBD | — | — | 🔜 |
+| 02 | PayTrack — UPI Spend Analyzer | KMeans Clustering + PDF Parser | Personal Finance | [Link] | 🔄 |
 
 ---
 
