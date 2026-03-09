@@ -160,7 +160,7 @@ Or try the **Sample CSV (Demo)** mode — no PDF needed!
 ## 🔗 Links
 
 - 🌐 Live App: *(coming soon)*
-- 🐙 GitHub: [Aanya's Github](https://github.com/aanxiee)
+- 🐙 GitHub: [Aanya's Github](https://github.com/aanxieee)
 - 💼 LinkedIn: [Check Profile](https://www.linkedin.com/in/aanya-mittal-aka-aanxiee/)
 - 🌍 Website: [aanxiee](https://aanxiee.com)
 
