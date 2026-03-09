@@ -6,7 +6,7 @@
 ### Find where your money is leaking — automatically.
 ### No labels needed. Patterns emerge from the data.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pay-track-2-aanxieee.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -159,7 +159,7 @@ Or try the **Sample CSV (Demo)** mode — no PDF needed!
 
 ## 🔗 Links
 
-- 🌐 Live App: *(coming soon)*
+- 🌐 Live App: (https://pay-track-2-aanxieee.streamlit.app/)
 - 🐙 GitHub: [Aanya's Github](https://github.com/aanxieee)
 - 💼 LinkedIn: [Check Profile](https://www.linkedin.com/in/aanya-mittal-aka-aanxiee/)
 - 🌍 Website: [aanxiee](https://aanxiee.com)
