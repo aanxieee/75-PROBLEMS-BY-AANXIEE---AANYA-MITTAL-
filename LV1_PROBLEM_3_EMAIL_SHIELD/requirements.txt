@@ -1,0 +1,8 @@
+streamlit
+beautifulsoup4
+tldextract
+mail-parser
+python-whois
+scikit-learn
+pandas
+extract-msg

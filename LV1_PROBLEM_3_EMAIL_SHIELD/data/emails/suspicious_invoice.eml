@@ -1,0 +1,45 @@
+From: PayPal Billing <alerts@paypa1-secure-check.com>
+Reply-To: Collections Desk <collections@paypa1-helpdesk.com>
+To: employee@example.com
+Subject: Urgent unpaid invoice action required
+Date: Tue, 10 Mar 2026 09:14:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUNDARY-EMAILSHIELD-001"
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=paypa1-secure-check.com; dkim=fail header.d=paypa1-secure-check.com
+Received-SPF: fail (example.com: domain of alerts@paypa1-secure-check.com does not designate 198.51.100.77 as permitted sender)
+Received: from unknown (localhost [127.0.0.1]) by relay7.example.net with SMTP id AAA111 for <employee@example.com>; Tue, 10 Mar 2026 09:14:00 +0000
+Received: from mx-gateway.suspicious-payments-secure-alert-check-now.com (mx-gateway.suspicious-payments-secure-alert-check-now.com [198.51.100.77]) by relay6.example.net with ESMTP id BBB222 for <employee@example.com>; Tue, 10 Mar 2026 09:13:58 +0000
+Received: from edge1.suspicious-payments-secure-alert-check-now.com (edge1.suspicious-payments-secure-alert-check-now.com [198.51.100.78]) by relay5.example.net with ESMTP id CCC333 for <employee@example.com>; Tue, 10 Mar 2026 09:13:56 +0000
+Received: from edge2.suspicious-payments-secure-alert-check-now.com (edge2.suspicious-payments-secure-alert-check-now.com [198.51.100.79]) by relay4.example.net with ESMTP id DDD444 for <employee@example.com>; Tue, 10 Mar 2026 09:13:54 +0000
+Received: from outbound2.suspicious-payments-secure-alert-check-now.com (outbound2.suspicious-payments-secure-alert-check-now.com [198.51.100.80]) by relay3.example.net with ESMTP id EEE555 for <employee@example.com>; Tue, 10 Mar 2026 09:13:52 +0000
+Received: from outbound1.suspicious-payments-secure-alert-check-now.com (outbound1.suspicious-payments-secure-alert-check-now.com [198.51.100.81]) by relay2.example.net with ESMTP id FFF666 for <employee@example.com>; Tue, 10 Mar 2026 09:13:50 +0000
+Received: from webmail.suspicious-payments-secure-alert-check-now.com (webmail.suspicious-payments-secure-alert-check-now.com [198.51.100.82]) by relay1.example.net with ESMTP id GGG777 for <employee@example.com>; Tue, 10 Mar 2026 09:13:48 +0000
+
+--BOUNDARY-EMAILSHIELD-001
+Content-Type: text/plain; charset="utf-8"
+
+Dear customer,
+
+We detected an unpaid invoice associated with your account.
+Review immediately:
+
+http://185.199.110.153/account/verify
+https://login.paypa1-secure-check.com.verify.session.security-alert.example/account/reset?redirect=%68%74%74%70%73%3A%2F%2Fbit.ly%2F4secure-login
+
+Failure to respond will result in account suspension.
+
+--BOUNDARY-EMAILSHIELD-001
+Content-Type: application/javascript; name="urgent_update.js"
+Content-Disposition: attachment; filename="urgent_update.js"
+Content-Transfer-Encoding: base64
+
+Ly8gSGFybWxlc3MgcGxhY2Vob2xkZXIgYXR0YWNobWVudCBmb3IgRW1haWxTaGllbGQgQW5hbHl6ZXIgdGVzdGluZy4K
+
+--BOUNDARY-EMAILSHIELD-001
+Content-Type: application/vnd.ms-word.document.macroEnabled.12; name="invoice_review.docm"
+Content-Disposition: attachment; filename="invoice_review.docm"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBhIGhhcm1sZXNzIHBsYWNlaG9sZGVyIGRvY3VtZW50IGZvciBvZmZsaW5lIHRlc3RpbmcuCg==
+
+--BOUNDARY-EMAILSHIELD-001--

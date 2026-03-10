@@ -1,0 +1,20 @@
+From: IT Support <it.support@contoso.com>
+Reply-To: IT Support <it.support@contoso.com>
+To: employee@example.com
+Subject: Scheduled mailbox maintenance notice
+Date: Tue, 10 Mar 2026 09:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Authentication-Results: mx.contoso.com; spf=pass smtp.mailfrom=contoso.com; dkim=pass header.d=contoso.com
+Received-SPF: pass (contoso.com: domain of it.support@contoso.com designates 203.0.113.10 as permitted sender)
+Received: from mail.contoso.com (mail.contoso.com [203.0.113.10]) by mx.example.com with ESMTPS id 12345 for <employee@example.com>; Tue, 10 Mar 2026 09:00:02 +0000
+
+Hello,
+
+We will perform scheduled mailbox maintenance this evening.
+You can review the status page at https://portal.contoso.com/security-notice.
+
+No action is required.
+
+Regards,
+IT Support

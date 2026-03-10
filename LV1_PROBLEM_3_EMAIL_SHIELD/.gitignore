@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.venv313/
+data/*.csv
+data/*.pdf
+*.pkl
