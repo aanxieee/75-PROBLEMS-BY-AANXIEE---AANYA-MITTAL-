@@ -153,4 +153,4 @@ MIT — free to use, fork, and build upon.
 
 ---
 
-*Day 01 / 75 — 75 Problems. 75 Real-World AI Solutions. #75DayAIChallenge*
+*Problem 01 / 75 — 75 Problems. 75 Real-World AI Solutions. #75DayAIChallenge*

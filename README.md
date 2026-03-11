@@ -27,7 +27,9 @@ Domains: **Fintech · Healthcare · Productivity · Education · Daily Life**
 | # | Problem | Solution | Domain | Stack | Live | Status |
 |---|---------|----------|--------|-------|------|--------|
 | 01 | I forget every new word I read | [VocabSRS — Spaced Repetition Vocabulary Builder](./LV1_PROBLEM_1_VOCABSRS/) | Productivity | Python, Streamlit, SM-2 | [▶ Demo]-https://vocab-srs-1-aanxiee.streamlit.app/| ✅ |
-| 02 |Was spending too much money ;( | [PayTrack — UPI Spend Analyzer](./LV1_PROBLEM_2_PAYTRACK/)  | KMeans Clustering + PDF Parser | Personal Finance | [▶ Demo]-(https://pay-track-2-aanxieee.streamlit.app/) | ✅ |
+| 02 |Was spending too much money ; | [PayTrack — UPI Spend Analyzer](./LV1_PROBLEM_2_PAYTRACK/)  | KMeans Clustering + PDF Parser | Personal Finance | [▶ Demo]-(https://pay-track-2-aanxieee.streamlit.app/) | ✅ |
+| 03 | EmailShield — Phishing Detector | Rule-Based Risk Scoring + Header & Domain Analysis | Fintech Security |[▶ Demo]-( https://email-shield-3-aanxiee.streamlit.app/)| ✅ |
+| 04 | Can't understand foreign audio | [Audio → Hindi Translator](./LV1_PROBLEM_4_AUDIO_CONVERTER/) | Productivity | Python, Streamlit, OpenAI Whisper, googletrans | Coming Soon | ✅ |
 
 ---
 
