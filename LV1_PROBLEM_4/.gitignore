@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+vocabsrs/
+data/
+*.mp3
+*.wav
+*.m4a
+*.ogg
+*.flac
+*.egg-info/
+.pytest_cache/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,596 @@
+{
+  "foods": [
+    {
+      "id": "moong_dal",
+      "name": "Moong Dal (cooked)",
+      "category": "Dals & Pulses",
+      "serving_size": "1 bowl (150g)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 150, "protein": 10.5, "carbs": 22, "fats": 1.5, "fiber": 4.5, "calcium": 30, "iron": 2.5, "zinc": 1.2, "vitamin_a": 15, "vitamin_b12": 0, "vitamin_c": 2, "vitamin_d": 0 }
+    },
+    {
+      "id": "toor_dal",
+      "name": "Toor Dal (cooked)",
+      "category": "Dals & Pulses",
+      "serving_size": "1 bowl (150g)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 160, "protein": 11, "carbs": 24, "fats": 1.8, "fiber": 5, "calcium": 45, "iron": 2.8, "zinc": 1.3, "vitamin_a": 10, "vitamin_b12": 0, "vitamin_c": 1, "vitamin_d": 0 }
+    },
+    {
+      "id": "chana_dal",
+      "name": "Chana Dal (cooked)",
+      "category": "Dals & Pulses",
+      "serving_size": "1 bowl (150g)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 170, "protein": 11.5, "carbs": 25, "fats": 2.5, "fiber": 6, "calcium": 55, "iron": 3, "zinc": 1.5, "vitamin_a": 8, "vitamin_b12": 0, "vitamin_c": 1, "vitamin_d": 0 }
+    },
+    {
+      "id": "masoor_dal",
+      "name": "Masoor Dal (cooked)",
+      "category": "Dals & Pulses",
+      "serving_size": "1 bowl (150g)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 145, "protein": 10, "carbs": 22, "fats": 1.2, "fiber": 5.5, "calcium": 25, "iron": 3.2, "zinc": 1.4, "vitamin_a": 5, "vitamin_b12": 0, "vitamin_c": 1, "vitamin_d": 0 }
+    },
+    {
+      "id": "urad_dal",
+      "name": "Urad Dal (cooked)",
+      "category": "Dals & Pulses",
+      "serving_size": "1 bowl (150g)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 155, "protein": 11, "carbs": 21, "fats": 2, "fiber": 5, "calcium": 60, "iron": 3.5, "zinc": 1.6, "vitamin_a": 12, "vitamin_b12": 0, "vitamin_c": 1, "vitamin_d": 0 }
+    },
+    {
+      "id": "rajma",
+      "name": "Rajma (Kidney Beans Curry)",
+      "category": "Dals & Pulses",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 210, "protein": 13, "carbs": 30, "fats": 3.5, "fiber": 7, "calcium": 65, "iron": 3.8, "zinc": 1.8, "vitamin_a": 20, "vitamin_b12": 0, "vitamin_c": 3, "vitamin_d": 0 }
+    },
+    {
+      "id": "chole",
+      "name": "Chole (Chickpea Curry)",
+      "category": "Dals & Pulses",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 220, "protein": 12, "carbs": 28, "fats": 5, "fiber": 8, "calcium": 70, "iron": 4, "zinc": 2, "vitamin_a": 25, "vitamin_b12": 0, "vitamin_c": 4, "vitamin_d": 0 }
+    },
+    {
+      "id": "dal_fry",
+      "name": "Dal Fry (Mixed)",
+      "category": "Dals & Pulses",
+      "serving_size": "1 bowl (180g)",
+      "serving_weight_g": 180,
+      "nutrients": { "calories": 180, "protein": 11, "carbs": 23, "fats": 4, "fiber": 5, "calcium": 40, "iron": 3, "zinc": 1.4, "vitamin_a": 30, "vitamin_b12": 0, "vitamin_c": 3, "vitamin_d": 0 }
+    },
+    {
+      "id": "dal_makhani",
+      "name": "Dal Makhani",
+      "category": "Dals & Pulses",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 260, "protein": 12, "carbs": 25, "fats": 10, "fiber": 5, "calcium": 80, "iron": 3.5, "zinc": 1.6, "vitamin_a": 45, "vitamin_b12": 0.2, "vitamin_c": 2, "vitamin_d": 0 }
+    },
+    {
+      "id": "roti",
+      "name": "Roti (Chapati)",
+      "category": "Rotis & Breads",
+      "serving_size": "1 roti (40g)",
+      "serving_weight_g": 40,
+      "nutrients": { "calories": 104, "protein": 3.5, "carbs": 20, "fats": 1, "fiber": 2.5, "calcium": 15, "iron": 1.2, "zinc": 0.5, "vitamin_a": 0, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "paratha",
+      "name": "Plain Paratha",
+      "category": "Rotis & Breads",
+      "serving_size": "1 paratha (60g)",
+      "serving_weight_g": 60,
+      "nutrients": { "calories": 180, "protein": 4, "carbs": 25, "fats": 7, "fiber": 2, "calcium": 18, "iron": 1.5, "zinc": 0.6, "vitamin_a": 0, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "aloo_paratha",
+      "name": "Aloo Paratha",
+      "category": "Rotis & Breads",
+      "serving_size": "1 paratha (100g)",
+      "serving_weight_g": 100,
+      "nutrients": { "calories": 240, "protein": 5, "carbs": 32, "fats": 10, "fiber": 3, "calcium": 25, "iron": 1.8, "zinc": 0.7, "vitamin_a": 5, "vitamin_b12": 0, "vitamin_c": 6, "vitamin_d": 0 }
+    },
+    {
+      "id": "naan",
+      "name": "Naan",
+      "category": "Rotis & Breads",
+      "serving_size": "1 naan (90g)",
+      "serving_weight_g": 90,
+      "nutrients": { "calories": 260, "protein": 7, "carbs": 42, "fats": 5, "fiber": 2, "calcium": 50, "iron": 2.5, "zinc": 0.8, "vitamin_a": 0, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "puri",
+      "name": "Puri",
+      "category": "Rotis & Breads",
+      "serving_size": "2 puris (50g)",
+      "serving_weight_g": 50,
+      "nutrients": { "calories": 190, "protein": 3, "carbs": 22, "fats": 9, "fiber": 1.5, "calcium": 12, "iron": 1, "zinc": 0.4, "vitamin_a": 0, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "missi_roti",
+      "name": "Missi Roti (Besan)",
+      "category": "Rotis & Breads",
+      "serving_size": "1 roti (50g)",
+      "serving_weight_g": 50,
+      "nutrients": { "calories": 130, "protein": 5.5, "carbs": 18, "fats": 3.5, "fiber": 3, "calcium": 20, "iron": 1.8, "zinc": 0.7, "vitamin_a": 5, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "plain_rice",
+      "name": "Plain Rice (Steamed)",
+      "category": "Rice & Grains",
+      "serving_size": "1 bowl (180g)",
+      "serving_weight_g": 180,
+      "nutrients": { "calories": 230, "protein": 4.5, "carbs": 50, "fats": 0.5, "fiber": 1, "calcium": 10, "iron": 0.8, "zinc": 0.6, "vitamin_a": 0, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "jeera_rice",
+      "name": "Jeera Rice",
+      "category": "Rice & Grains",
+      "serving_size": "1 bowl (180g)",
+      "serving_weight_g": 180,
+      "nutrients": { "calories": 250, "protein": 4.5, "carbs": 48, "fats": 3, "fiber": 1.5, "calcium": 15, "iron": 1, "zinc": 0.7, "vitamin_a": 2, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "veg_pulao",
+      "name": "Veg Pulao",
+      "category": "Rice & Grains",
+      "serving_size": "1 plate (220g)",
+      "serving_weight_g": 220,
+      "nutrients": { "calories": 280, "protein": 6, "carbs": 45, "fats": 7, "fiber": 3, "calcium": 30, "iron": 1.5, "zinc": 0.9, "vitamin_a": 40, "vitamin_b12": 0, "vitamin_c": 5, "vitamin_d": 0 }
+    },
+    {
+      "id": "chicken_biryani",
+      "name": "Chicken Biryani",
+      "category": "Rice & Grains",
+      "serving_size": "1 plate (300g)",
+      "serving_weight_g": 300,
+      "nutrients": { "calories": 400, "protein": 22, "carbs": 48, "fats": 12, "fiber": 2, "calcium": 40, "iron": 2.5, "zinc": 2.5, "vitamin_a": 30, "vitamin_b12": 0.8, "vitamin_c": 3, "vitamin_d": 0.2 }
+    },
+    {
+      "id": "khichdi",
+      "name": "Khichdi (Dal Rice)",
+      "category": "Rice & Grains",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 200, "protein": 8, "carbs": 34, "fats": 3, "fiber": 3.5, "calcium": 25, "iron": 2, "zinc": 1, "vitamin_a": 10, "vitamin_b12": 0, "vitamin_c": 1, "vitamin_d": 0 }
+    },
+    {
+      "id": "poha",
+      "name": "Poha (Flattened Rice)",
+      "category": "Rice & Grains",
+      "serving_size": "1 plate (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 250, "protein": 5, "carbs": 42, "fats": 6, "fiber": 2, "calcium": 20, "iron": 3, "zinc": 0.8, "vitamin_a": 15, "vitamin_b12": 0, "vitamin_c": 4, "vitamin_d": 0 }
+    },
+    {
+      "id": "upma",
+      "name": "Upma (Rava)",
+      "category": "Rice & Grains",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 220, "protein": 5.5, "carbs": 35, "fats": 6, "fiber": 2.5, "calcium": 25, "iron": 1.5, "zinc": 0.7, "vitamin_a": 20, "vitamin_b12": 0, "vitamin_c": 3, "vitamin_d": 0 }
+    },
+    {
+      "id": "aloo_gobi",
+      "name": "Aloo Gobi",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (180g)",
+      "serving_weight_g": 180,
+      "nutrients": { "calories": 160, "protein": 4, "carbs": 20, "fats": 7, "fiber": 4, "calcium": 35, "iron": 1.5, "zinc": 0.6, "vitamin_a": 30, "vitamin_b12": 0, "vitamin_c": 40, "vitamin_d": 0 }
+    },
+    {
+      "id": "palak_paneer",
+      "name": "Palak Paneer",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 250, "protein": 14, "carbs": 10, "fats": 16, "fiber": 3, "calcium": 300, "iron": 4.5, "zinc": 2, "vitamin_a": 400, "vitamin_b12": 0.3, "vitamin_c": 25, "vitamin_d": 0 }
+    },
+    {
+      "id": "bhindi_fry",
+      "name": "Bhindi Fry (Okra)",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (150g)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 130, "protein": 3, "carbs": 12, "fats": 7, "fiber": 4, "calcium": 80, "iron": 1.5, "zinc": 0.8, "vitamin_a": 35, "vitamin_b12": 0, "vitamin_c": 15, "vitamin_d": 0 }
+    },
+    {
+      "id": "baingan_bharta",
+      "name": "Baingan Bharta",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (180g)",
+      "serving_weight_g": 180,
+      "nutrients": { "calories": 140, "protein": 3.5, "carbs": 14, "fats": 8, "fiber": 5, "calcium": 25, "iron": 1.2, "zinc": 0.5, "vitamin_a": 20, "vitamin_b12": 0, "vitamin_c": 8, "vitamin_d": 0 }
+    },
+    {
+      "id": "mixed_veg",
+      "name": "Mixed Veg Curry",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (180g)",
+      "serving_weight_g": 180,
+      "nutrients": { "calories": 150, "protein": 4, "carbs": 16, "fats": 7, "fiber": 5, "calcium": 50, "iron": 2, "zinc": 0.8, "vitamin_a": 120, "vitamin_b12": 0, "vitamin_c": 20, "vitamin_d": 0 }
+    },
+    {
+      "id": "matar_paneer",
+      "name": "Matar Paneer",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 270, "protein": 14, "carbs": 14, "fats": 16, "fiber": 4, "calcium": 250, "iron": 2.5, "zinc": 1.8, "vitamin_a": 60, "vitamin_b12": 0.3, "vitamin_c": 15, "vitamin_d": 0 }
+    },
+    {
+      "id": "chana_masala",
+      "name": "Chana Masala",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 210, "protein": 11, "carbs": 28, "fats": 5, "fiber": 7, "calcium": 65, "iron": 3.5, "zinc": 1.8, "vitamin_a": 25, "vitamin_b12": 0, "vitamin_c": 5, "vitamin_d": 0 }
+    },
+    {
+      "id": "aloo_matar",
+      "name": "Aloo Matar",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (180g)",
+      "serving_weight_g": 180,
+      "nutrients": { "calories": 180, "protein": 5, "carbs": 24, "fats": 7, "fiber": 4, "calcium": 30, "iron": 1.8, "zinc": 0.7, "vitamin_a": 35, "vitamin_b12": 0, "vitamin_c": 18, "vitamin_d": 0 }
+    },
+    {
+      "id": "lauki_sabzi",
+      "name": "Lauki (Bottle Gourd) Sabzi",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (180g)",
+      "serving_weight_g": 180,
+      "nutrients": { "calories": 80, "protein": 2, "carbs": 10, "fats": 3, "fiber": 2.5, "calcium": 25, "iron": 0.8, "zinc": 0.4, "vitamin_a": 15, "vitamin_b12": 0, "vitamin_c": 10, "vitamin_d": 0 }
+    },
+    {
+      "id": "tinda_sabzi",
+      "name": "Tinda Sabzi",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (180g)",
+      "serving_weight_g": 180,
+      "nutrients": { "calories": 85, "protein": 2.5, "carbs": 11, "fats": 3.5, "fiber": 3, "calcium": 30, "iron": 1, "zinc": 0.5, "vitamin_a": 20, "vitamin_b12": 0, "vitamin_c": 12, "vitamin_d": 0 }
+    },
+    {
+      "id": "paneer_bhurji",
+      "name": "Paneer Bhurji",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (150g)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 280, "protein": 16, "carbs": 6, "fats": 20, "fiber": 1.5, "calcium": 350, "iron": 1.5, "zinc": 2, "vitamin_a": 80, "vitamin_b12": 0.4, "vitamin_c": 8, "vitamin_d": 0.1 }
+    },
+    {
+      "id": "kadhi_pakora",
+      "name": "Kadhi Pakora",
+      "category": "Sabzi & Curries",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 200, "protein": 7, "carbs": 18, "fats": 10, "fiber": 2, "calcium": 100, "iron": 1.5, "zinc": 0.8, "vitamin_a": 15, "vitamin_b12": 0.1, "vitamin_c": 3, "vitamin_d": 0 }
+    },
+    {
+      "id": "paneer_tikka",
+      "name": "Paneer Tikka",
+      "category": "Proteins & Snacks",
+      "serving_size": "6 pieces (120g)",
+      "serving_weight_g": 120,
+      "nutrients": { "calories": 250, "protein": 16, "carbs": 5, "fats": 18, "fiber": 1, "calcium": 300, "iron": 1.2, "zinc": 1.8, "vitamin_a": 60, "vitamin_b12": 0.4, "vitamin_c": 10, "vitamin_d": 0.1 }
+    },
+    {
+      "id": "egg_boiled",
+      "name": "Boiled Egg",
+      "category": "Proteins & Snacks",
+      "serving_size": "1 egg (50g)",
+      "serving_weight_g": 50,
+      "nutrients": { "calories": 78, "protein": 6.3, "carbs": 0.6, "fats": 5.3, "fiber": 0, "calcium": 25, "iron": 0.9, "zinc": 0.5, "vitamin_a": 80, "vitamin_b12": 0.6, "vitamin_c": 0, "vitamin_d": 1.1 }
+    },
+    {
+      "id": "egg_bhurji",
+      "name": "Egg Bhurji (2 eggs)",
+      "category": "Proteins & Snacks",
+      "serving_size": "1 serving (120g)",
+      "serving_weight_g": 120,
+      "nutrients": { "calories": 210, "protein": 14, "carbs": 3, "fats": 15, "fiber": 0.5, "calcium": 55, "iron": 2, "zinc": 1.2, "vitamin_a": 160, "vitamin_b12": 1.2, "vitamin_c": 5, "vitamin_d": 2 }
+    },
+    {
+      "id": "chicken_curry",
+      "name": "Chicken Curry",
+      "category": "Proteins & Snacks",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 280, "protein": 25, "carbs": 8, "fats": 15, "fiber": 1.5, "calcium": 30, "iron": 2.5, "zinc": 3, "vitamin_a": 40, "vitamin_b12": 1, "vitamin_c": 5, "vitamin_d": 0.3 }
+    },
+    {
+      "id": "fish_curry",
+      "name": "Fish Curry",
+      "category": "Proteins & Snacks",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 220, "protein": 22, "carbs": 6, "fats": 11, "fiber": 1, "calcium": 60, "iron": 1.5, "zinc": 1, "vitamin_a": 30, "vitamin_b12": 3, "vitamin_c": 4, "vitamin_d": 5 }
+    },
+    {
+      "id": "tandoori_chicken",
+      "name": "Tandoori Chicken (2 pieces)",
+      "category": "Proteins & Snacks",
+      "serving_size": "2 pieces (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 260, "protein": 30, "carbs": 4, "fats": 12, "fiber": 0.5, "calcium": 25, "iron": 2, "zinc": 3.5, "vitamin_a": 35, "vitamin_b12": 1.2, "vitamin_c": 3, "vitamin_d": 0.3 }
+    },
+    {
+      "id": "samosa",
+      "name": "Samosa",
+      "category": "Proteins & Snacks",
+      "serving_size": "1 samosa (80g)",
+      "serving_weight_g": 80,
+      "nutrients": { "calories": 210, "protein": 3.5, "carbs": 24, "fats": 11, "fiber": 2, "calcium": 15, "iron": 1, "zinc": 0.4, "vitamin_a": 5, "vitamin_b12": 0, "vitamin_c": 4, "vitamin_d": 0 }
+    },
+    {
+      "id": "pakora",
+      "name": "Pakora (mixed)",
+      "category": "Proteins & Snacks",
+      "serving_size": "5 pieces (100g)",
+      "serving_weight_g": 100,
+      "nutrients": { "calories": 230, "protein": 5, "carbs": 20, "fats": 14, "fiber": 2.5, "calcium": 30, "iron": 1.5, "zinc": 0.6, "vitamin_a": 20, "vitamin_b12": 0, "vitamin_c": 5, "vitamin_d": 0 }
+    },
+    {
+      "id": "idli",
+      "name": "Idli",
+      "category": "South Indian",
+      "serving_size": "2 idlis (120g)",
+      "serving_weight_g": 120,
+      "nutrients": { "calories": 140, "protein": 4, "carbs": 28, "fats": 0.8, "fiber": 1.5, "calcium": 15, "iron": 1, "zinc": 0.5, "vitamin_a": 2, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "dosa",
+      "name": "Masala Dosa",
+      "category": "South Indian",
+      "serving_size": "1 dosa (150g)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 250, "protein": 5.5, "carbs": 35, "fats": 9, "fiber": 2.5, "calcium": 20, "iron": 1.5, "zinc": 0.7, "vitamin_a": 10, "vitamin_b12": 0, "vitamin_c": 6, "vitamin_d": 0 }
+    },
+    {
+      "id": "vada",
+      "name": "Medu Vada",
+      "category": "South Indian",
+      "serving_size": "2 vadas (100g)",
+      "serving_weight_g": 100,
+      "nutrients": { "calories": 220, "protein": 7, "carbs": 22, "fats": 12, "fiber": 2, "calcium": 30, "iron": 2, "zinc": 0.8, "vitamin_a": 5, "vitamin_b12": 0, "vitamin_c": 1, "vitamin_d": 0 }
+    },
+    {
+      "id": "uttapam",
+      "name": "Uttapam",
+      "category": "South Indian",
+      "serving_size": "1 uttapam (180g)",
+      "serving_weight_g": 180,
+      "nutrients": { "calories": 200, "protein": 5, "carbs": 32, "fats": 5, "fiber": 2, "calcium": 25, "iron": 1.2, "zinc": 0.6, "vitamin_a": 20, "vitamin_b12": 0, "vitamin_c": 8, "vitamin_d": 0 }
+    },
+    {
+      "id": "sambhar",
+      "name": "Sambhar",
+      "category": "South Indian",
+      "serving_size": "1 bowl (200g)",
+      "serving_weight_g": 200,
+      "nutrients": { "calories": 130, "protein": 6, "carbs": 18, "fats": 3, "fiber": 4, "calcium": 40, "iron": 2, "zinc": 0.8, "vitamin_a": 30, "vitamin_b12": 0, "vitamin_c": 8, "vitamin_d": 0 }
+    },
+    {
+      "id": "paneer_raw",
+      "name": "Paneer (raw cubes)",
+      "category": "Dairy",
+      "serving_size": "100g",
+      "serving_weight_g": 100,
+      "nutrients": { "calories": 265, "protein": 18, "carbs": 1.2, "fats": 20, "fiber": 0, "calcium": 480, "iron": 0.5, "zinc": 2.5, "vitamin_a": 90, "vitamin_b12": 0.8, "vitamin_c": 0, "vitamin_d": 0.2 }
+    },
+    {
+      "id": "dahi",
+      "name": "Dahi (Curd/Yogurt)",
+      "category": "Dairy",
+      "serving_size": "1 bowl (150g)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 100, "protein": 5, "carbs": 7, "fats": 5, "fiber": 0, "calcium": 180, "iron": 0.2, "zinc": 0.7, "vitamin_a": 30, "vitamin_b12": 0.5, "vitamin_c": 1, "vitamin_d": 0.1 }
+    },
+    {
+      "id": "milk_full",
+      "name": "Milk (Full Cream)",
+      "category": "Dairy",
+      "serving_size": "1 glass (250ml)",
+      "serving_weight_g": 250,
+      "nutrients": { "calories": 160, "protein": 8, "carbs": 12, "fats": 8, "fiber": 0, "calcium": 300, "iron": 0.2, "zinc": 1, "vitamin_a": 50, "vitamin_b12": 1.1, "vitamin_c": 2, "vitamin_d": 1.2 }
+    },
+    {
+      "id": "milk_toned",
+      "name": "Milk (Toned)",
+      "category": "Dairy",
+      "serving_size": "1 glass (250ml)",
+      "serving_weight_g": 250,
+      "nutrients": { "calories": 120, "protein": 8, "carbs": 12, "fats": 3.5, "fiber": 0, "calcium": 290, "iron": 0.2, "zinc": 1, "vitamin_a": 25, "vitamin_b12": 1, "vitamin_c": 2, "vitamin_d": 1 }
+    },
+    {
+      "id": "lassi_sweet",
+      "name": "Sweet Lassi",
+      "category": "Dairy",
+      "serving_size": "1 glass (250ml)",
+      "serving_weight_g": 250,
+      "nutrients": { "calories": 180, "protein": 5, "carbs": 25, "fats": 5, "fiber": 0, "calcium": 170, "iron": 0.2, "zinc": 0.6, "vitamin_a": 25, "vitamin_b12": 0.4, "vitamin_c": 2, "vitamin_d": 0.1 }
+    },
+    {
+      "id": "chaas",
+      "name": "Chaas (Buttermilk)",
+      "category": "Dairy",
+      "serving_size": "1 glass (250ml)",
+      "serving_weight_g": 250,
+      "nutrients": { "calories": 45, "protein": 3, "carbs": 5, "fats": 1, "fiber": 0, "calcium": 120, "iron": 0.1, "zinc": 0.3, "vitamin_a": 10, "vitamin_b12": 0.3, "vitamin_c": 1, "vitamin_d": 0 }
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "category": "Fruits",
+      "serving_size": "1 medium (120g)",
+      "serving_weight_g": 120,
+      "nutrients": { "calories": 105, "protein": 1.3, "carbs": 27, "fats": 0.4, "fiber": 3, "calcium": 6, "iron": 0.3, "zinc": 0.2, "vitamin_a": 4, "vitamin_b12": 0, "vitamin_c": 10, "vitamin_d": 0 }
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "category": "Fruits",
+      "serving_size": "1 medium (180g)",
+      "serving_weight_g": 180,
+      "nutrients": { "calories": 95, "protein": 0.5, "carbs": 25, "fats": 0.3, "fiber": 4, "calcium": 11, "iron": 0.2, "zinc": 0.1, "vitamin_a": 5, "vitamin_b12": 0, "vitamin_c": 8, "vitamin_d": 0 }
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "category": "Fruits",
+      "serving_size": "1 cup sliced (165g)",
+      "serving_weight_g": 165,
+      "nutrients": { "calories": 100, "protein": 1.4, "carbs": 25, "fats": 0.6, "fiber": 2.6, "calcium": 18, "iron": 0.3, "zinc": 0.1, "vitamin_a": 180, "vitamin_b12": 0, "vitamin_c": 60, "vitamin_d": 0 }
+    },
+    {
+      "id": "papaya",
+      "name": "Papaya",
+      "category": "Fruits",
+      "serving_size": "1 cup (145g)",
+      "serving_weight_g": 145,
+      "nutrients": { "calories": 62, "protein": 0.7, "carbs": 16, "fats": 0.4, "fiber": 2.5, "calcium": 29, "iron": 0.4, "zinc": 0.1, "vitamin_a": 130, "vitamin_b12": 0, "vitamin_c": 88, "vitamin_d": 0 }
+    },
+    {
+      "id": "guava",
+      "name": "Guava",
+      "category": "Fruits",
+      "serving_size": "1 medium (100g)",
+      "serving_weight_g": 100,
+      "nutrients": { "calories": 68, "protein": 2.6, "carbs": 14, "fats": 1, "fiber": 5, "calcium": 18, "iron": 0.3, "zinc": 0.2, "vitamin_a": 31, "vitamin_b12": 0, "vitamin_c": 228, "vitamin_d": 0 }
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "category": "Fruits",
+      "serving_size": "1 medium (130g)",
+      "serving_weight_g": 130,
+      "nutrients": { "calories": 62, "protein": 1.2, "carbs": 15, "fats": 0.2, "fiber": 3, "calcium": 52, "iron": 0.1, "zinc": 0.1, "vitamin_a": 14, "vitamin_b12": 0, "vitamin_c": 70, "vitamin_d": 0 }
+    },
+    {
+      "id": "chai",
+      "name": "Chai (Milk Tea)",
+      "category": "Beverages",
+      "serving_size": "1 cup (150ml)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 70, "protein": 2, "carbs": 10, "fats": 2.5, "fiber": 0, "calcium": 60, "iron": 0.5, "zinc": 0.2, "vitamin_a": 10, "vitamin_b12": 0.2, "vitamin_c": 0, "vitamin_d": 0.2 }
+    },
+    {
+      "id": "coffee",
+      "name": "Coffee (with milk & sugar)",
+      "category": "Beverages",
+      "serving_size": "1 cup (150ml)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 60, "protein": 2, "carbs": 8, "fats": 2, "fiber": 0, "calcium": 50, "iron": 0.3, "zinc": 0.1, "vitamin_a": 8, "vitamin_b12": 0.1, "vitamin_c": 0, "vitamin_d": 0.1 }
+    },
+    {
+      "id": "nimbu_pani",
+      "name": "Nimbu Pani (Lemonade)",
+      "category": "Beverages",
+      "serving_size": "1 glass (250ml)",
+      "serving_weight_g": 250,
+      "nutrients": { "calories": 50, "protein": 0.2, "carbs": 13, "fats": 0, "fiber": 0.2, "calcium": 5, "iron": 0.1, "zinc": 0, "vitamin_a": 1, "vitamin_b12": 0, "vitamin_c": 20, "vitamin_d": 0 }
+    },
+    {
+      "id": "salad_green",
+      "name": "Green Salad (mixed)",
+      "category": "Salads & Sides",
+      "serving_size": "1 bowl (100g)",
+      "serving_weight_g": 100,
+      "nutrients": { "calories": 25, "protein": 1.5, "carbs": 4, "fats": 0.3, "fiber": 2.5, "calcium": 35, "iron": 0.8, "zinc": 0.3, "vitamin_a": 200, "vitamin_b12": 0, "vitamin_c": 15, "vitamin_d": 0 }
+    },
+    {
+      "id": "raita",
+      "name": "Raita (Boondi/Cucumber)",
+      "category": "Salads & Sides",
+      "serving_size": "1 bowl (120g)",
+      "serving_weight_g": 120,
+      "nutrients": { "calories": 80, "protein": 3, "carbs": 8, "fats": 3.5, "fiber": 0.5, "calcium": 120, "iron": 0.2, "zinc": 0.4, "vitamin_a": 15, "vitamin_b12": 0.3, "vitamin_c": 2, "vitamin_d": 0 }
+    },
+    {
+      "id": "pickle",
+      "name": "Achar (Pickle)",
+      "category": "Salads & Sides",
+      "serving_size": "1 tbsp (15g)",
+      "serving_weight_g": 15,
+      "nutrients": { "calories": 20, "protein": 0.2, "carbs": 2, "fats": 1.5, "fiber": 0.5, "calcium": 5, "iron": 0.3, "zinc": 0.1, "vitamin_a": 8, "vitamin_b12": 0, "vitamin_c": 2, "vitamin_d": 0 }
+    },
+    {
+      "id": "papad",
+      "name": "Papad (Roasted)",
+      "category": "Salads & Sides",
+      "serving_size": "1 papad (15g)",
+      "serving_weight_g": 15,
+      "nutrients": { "calories": 45, "protein": 3, "carbs": 6, "fats": 0.5, "fiber": 1, "calcium": 10, "iron": 0.8, "zinc": 0.3, "vitamin_a": 2, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "halwa_sooji",
+      "name": "Sooji Halwa",
+      "category": "Sweets & Desserts",
+      "serving_size": "1 bowl (100g)",
+      "serving_weight_g": 100,
+      "nutrients": { "calories": 280, "protein": 4, "carbs": 38, "fats": 12, "fiber": 1, "calcium": 25, "iron": 1, "zinc": 0.4, "vitamin_a": 40, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "gulab_jamun",
+      "name": "Gulab Jamun",
+      "category": "Sweets & Desserts",
+      "serving_size": "2 pieces (80g)",
+      "serving_weight_g": 80,
+      "nutrients": { "calories": 300, "protein": 4, "carbs": 42, "fats": 12, "fiber": 0.5, "calcium": 50, "iron": 0.5, "zinc": 0.3, "vitamin_a": 20, "vitamin_b12": 0.1, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "kheer",
+      "name": "Rice Kheer",
+      "category": "Sweets & Desserts",
+      "serving_size": "1 bowl (150g)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 220, "protein": 5, "carbs": 32, "fats": 8, "fiber": 0.5, "calcium": 150, "iron": 0.5, "zinc": 0.6, "vitamin_a": 35, "vitamin_b12": 0.4, "vitamin_c": 1, "vitamin_d": 0.3 }
+    },
+    {
+      "id": "dry_fruits_mix",
+      "name": "Dry Fruits Mix (Almonds, Cashews, Raisins)",
+      "category": "Snacks",
+      "serving_size": "1 handful (30g)",
+      "serving_weight_g": 30,
+      "nutrients": { "calories": 160, "protein": 4.5, "carbs": 10, "fats": 12, "fiber": 2, "calcium": 40, "iron": 1, "zinc": 0.8, "vitamin_a": 0, "vitamin_b12": 0, "vitamin_c": 0.5, "vitamin_d": 0 }
+    },
+    {
+      "id": "peanuts",
+      "name": "Roasted Peanuts",
+      "category": "Snacks",
+      "serving_size": "1 handful (30g)",
+      "serving_weight_g": 30,
+      "nutrients": { "calories": 170, "protein": 7, "carbs": 5, "fats": 14, "fiber": 2.5, "calcium": 18, "iron": 1.2, "zinc": 1, "vitamin_a": 0, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "makhana",
+      "name": "Makhana (Fox Nuts, roasted)",
+      "category": "Snacks",
+      "serving_size": "1 bowl (30g)",
+      "serving_weight_g": 30,
+      "nutrients": { "calories": 110, "protein": 3, "carbs": 20, "fats": 0.5, "fiber": 1.5, "calcium": 15, "iron": 0.5, "zinc": 0.3, "vitamin_a": 0, "vitamin_b12": 0, "vitamin_c": 0, "vitamin_d": 0 }
+    },
+    {
+      "id": "sprouts",
+      "name": "Sprouts (Moong, boiled)",
+      "category": "Salads & Sides",
+      "serving_size": "1 bowl (100g)",
+      "serving_weight_g": 100,
+      "nutrients": { "calories": 65, "protein": 6, "carbs": 8, "fats": 0.5, "fiber": 3, "calcium": 25, "iron": 1.5, "zinc": 0.8, "vitamin_a": 5, "vitamin_b12": 0, "vitamin_c": 12, "vitamin_d": 0 }
+    },
+    {
+      "id": "soy_chunk",
+      "name": "Soya Chunks Curry",
+      "category": "Proteins & Snacks",
+      "serving_size": "1 bowl (150g cooked)",
+      "serving_weight_g": 150,
+      "nutrients": { "calories": 180, "protein": 26, "carbs": 12, "fats": 1, "fiber": 4, "calcium": 200, "iron": 5, "zinc": 2.5, "vitamin_a": 15, "vitamin_b12": 0, "vitamin_c": 3, "vitamin_d": 0 }
+    }
+  ]
+}
