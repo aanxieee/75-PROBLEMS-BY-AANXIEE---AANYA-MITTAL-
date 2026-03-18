@@ -34,6 +34,7 @@ Domains: **Fintech · Healthcare · Productivity · Education · Daily Life**
 | 06 | Unsure where invested stock returns are heading | [Stock Return Predictor](./LV1_PROBLEM_6_STOCK_RETURN_PREDICTOR/) | Finance | Polynomial Regression, Feature Engineering | [Project](./LV1_PROBLEM_6_STOCK_RETURN_PREDICTOR/) | ✅ |
 | 07 | Need a rough medicine dosage estimate | [Medicine Dosage Estimator](./LV1_PROBLEM_7_MEDICINE_DOSAGE_ESTIMATOR/) | Healthcare | Multiple Linear Regression | [Project](./LV1_PROBLEM_7_MEDICINE_DOSAGE_ESTIMATOR/) | ✅ |
 | 08 | Track Indian meals and nutrition gaps daily | [Indian Diet Nutrition Tracker](./LV1_PROBLEM_8_INDIAN_DIET_NUTRITION_TRACKER/) | Healthcare & Nutrition | Rule-Based Recommender, Nutrition Tracking | [Project](./LV1_PROBLEM_8_INDIAN_DIET_NUTRITION_TRACKER/) | ✅ |
+| 09 | Understand market mood from financial headlines | [Financial News Sentiment Analyzer](./LV1_PROBLEM_9_FINANCIAL_NEWS_SENTIMENT_ANALYZER/) | Fintech | VADER Sentiment Analysis, Financial Lexicon | [Project](./LV1_PROBLEM_9_FINANCIAL_NEWS_SENTIMENT_ANALYZER/) | ✅ |
 
 ---
 
