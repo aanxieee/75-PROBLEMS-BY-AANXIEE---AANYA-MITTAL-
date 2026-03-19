@@ -28,7 +28,7 @@ Domains: **Fintech · Healthcare · Productivity · Education · Daily Life**
 |---|---------|----------|--------|-------|------|--------|
 | 01 | I forget every new word I read | [VocabSRS — Spaced Repetition Vocabulary Builder](./LV1_PROBLEM_1_VOCABSRS/) | Productivity | Python, Streamlit, SM-2 | [▶ Demo]-https://vocab-srs-1-aanxiee.streamlit.app/| ✅ |
 | 02 |Was spending too much money ; | [PayTrack — UPI Spend Analyzer](./LV1_PROBLEM_2_PAYTRACK/)  | KMeans Clustering + PDF Parser | Personal Finance | [▶ Demo]-(https://pay-track-2-aanxieee.streamlit.app/) | ✅ |
-| 03 | EmailShield — Phishing Detector | Rule-Based Risk Scoring + Header & Domain Analysis | Fintech Security |[▶ Demo]-( https://email-shield-3-aanxiee.streamlit.app/)| ✅ |
+| 03 |i got scammed for a freelance project via a fake url in mail |EmailShield — Phishing Detector | Rule-Based Risk Scoring + Header & Domain Analysis | Fintech Security |[▶ Demo]-( https://email-shield-3-aanxiee.streamlit.app/)| ✅ |
 | 04 | Can't understand foreign audio | [Audio → Hindi Translator](./LV1_PROBLEM_4/) | Productivity | Python, Streamlit, OpenAI Whisper, googletrans | [▶ Demo](https://audio-hindi-translator-aanxiee.streamlit.app/) | ✅ |
 | 05 | Phone gallery cluttered with screenshots and duplicates | [Gallery Storage Optimizer](./LV1_PROBLEM_5_GALLERY_STORAGE_OPTIMIZER/) | Productivity | Computer Vision, Cosine Similarity, KMeans | [Project](./LV1_PROBLEM_5_GALLERY_STORAGE_OPTIMIZER/) | ✅ |
 | 06 | Unsure where invested stock returns are heading | [Stock Return Predictor](./LV1_PROBLEM_6_STOCK_RETURN_PREDICTOR/) | Finance | Polynomial Regression, Feature Engineering | [Project](./LV1_PROBLEM_6_STOCK_RETURN_PREDICTOR/) | ✅ |
