@@ -36,6 +36,7 @@ Domains: **Fintech · Healthcare · Productivity · Education · Daily Life**
 | 08 | Track Indian meals and nutrition gaps daily | [Indian Diet Nutrition Tracker](./LV1_PROBLEM_8_INDIAN_DIET_NUTRITION_TRACKER/) | Healthcare & Nutrition | Rule-Based Recommender, Nutrition Tracking | [Project](./LV1_PROBLEM_8_INDIAN_DIET_NUTRITION_TRACKER/) | ✅ |
 | 09 | Understand market mood from financial headlines | [Financial News Sentiment Analyzer](./LV1_PROBLEM_9_FINANCIAL_NEWS_SENTIMENT_ANALYZER/) | Fintech | VADER Sentiment Analysis, Financial Lexicon | [Project](./LV1_PROBLEM_9_FINANCIAL_NEWS_SENTIMENT_ANALYZER/) | ✅ |
 | 10 | Diabetes Risk Predictor | KNN Classifier | Healthcare | [Link] | ✅ |
+| 11 | 🏦 EMI Risk Calculator | Ridge Regression | Fintech | EMI affordability + risk scoring | [Folder](./LV1_PROBLEM_11_EMI_RISK_CALCULATOR/) | ✅ |
 
 ---
 
